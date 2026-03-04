@@ -7,5 +7,7 @@
 - 📫 How to reach me: https://t.me/Devilord_666
 - ⚡ Fun fact: I am a vampire
 ## My code
-<! Статистика языков в коммитах >
+<!-- Статистика языков в коммитах -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+<!-- Статистика языков в репозиториях -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
