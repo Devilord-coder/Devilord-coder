@@ -1,10 +1,17 @@
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
 ![github_stats](https://github.com/user-attachments/assets/05bb26e3-5330-430d-bbbf-b60a1dc27d9c)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=About+me)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 - 🔭 I’m currently working at school
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: https://t.me/Devilord_666
 - ⚡ Fun fact: I am a vampire
+### For communication
+[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Devilord_666)
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=My+code)](https://git.io/typing-svg)
 <!-- Статистика языков в коммитах -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
