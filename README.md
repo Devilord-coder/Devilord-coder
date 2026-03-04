@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at school
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: https://t.me/Devilord_666
+- ⚡ Fun fact: I am a vampire
