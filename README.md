@@ -17,6 +17,7 @@
 - 🔭 I’m currently working at school
 - 🌱 I’m currently learning C++
 - ⚡ Fun fact: I am a vampire
+- Of course, I don't have so many views in profile
 ### For communication
 <!-- Badge "Telegram" with link to my tg -->
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Devilord_666)
