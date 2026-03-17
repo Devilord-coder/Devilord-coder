@@ -13,11 +13,10 @@
 <!-- Title "About me" -->
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=About+me)](https://git.io/typing-svg)
 <!-- Profile views -->
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Devilord-coder)
 - 🔭 I’m currently working at school
 - 🌱 I’m currently learning C++
 - ⚡ Fun fact: I am a vampire
-- Of course, I don't have so many views in profile
 ### For communication
 <!-- Badge "Telegram" with link to my tg -->
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Devilord_666)
