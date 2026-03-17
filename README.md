@@ -12,6 +12,9 @@
 
 <!-- Title "About me" -->
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=About+me)](https://git.io/typing-svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devilord-coder)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Profile views -->
 ![](https://komarev.com/ghpvc/?username=Devilord-coder)
 - 🔭 I’m currently working at school
@@ -21,7 +24,5 @@
 <!-- Badge "Telegram" with link to my tg -->
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Devilord_666)
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=My+code)](https://git.io/typing-svg)
-<!-- Statistic of languages in commits -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-<!-- Statistic of languages in repo -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+<!-- Statistic of languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilord-coder)](https://github.com/anuraghazra/github-readme-stats)
